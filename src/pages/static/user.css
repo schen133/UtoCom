@@ -1,0 +1,13 @@
+.userProfile{
+        position: relative;
+        justify-content: center;
+        align-items: center;
+        padding-top: 20%;
+        z-index: 5;
+}
+
+h1{
+        font-weight: bold;
+        color: white;
+        padding: 2%;
+}

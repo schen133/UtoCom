@@ -1,0 +1,12 @@
+.mainContainer{
+        position: relative;
+        margin-top: -180px;
+        background-image: url("./images/rochesterMain.webp");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 800px;
+        /* margin-top: -12px; */
+        opacity: 0.9;
+        z-index: 1;
+
+}

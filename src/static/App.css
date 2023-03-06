@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.App-header{
+  border: 1.5px solid black; /* add a black border */
+  display: inline-block; /* display the element as a block with inline properties */
+  background-color: lightgray; /* add a light gray background color */
+  width: 1000px; /* set a width of 200 pixels */
+}
+
+
+

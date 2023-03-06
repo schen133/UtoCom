@@ -1,0 +1,44 @@
+.event-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        grid-gap: 1rem;
+        align-items: center;
+        justify-content: center;
+        padding: 20%
+}
+      
+.event-card {
+        border: 1px solid #ccc;
+        padding: 1rem;
+        background-color: #f8f8f8;
+        opacity: 0.8;
+}
+      
+.event-title {
+        font-size: 1.5rem;
+        font-weight: bold;
+        margin-bottom: 0.5rem;
+}
+      
+.event-description {
+        font-size: 1rem;
+        margin-bottom: 1rem;
+}
+      
+.event-button {
+        padding: 0.5rem;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        cursor: pointer;
+        transition: background-color 0.2s ease-in-out;
+}
+      
+.event-button:hover {
+        background-color: #0069d9;
+}
+
+h2{
+        font-weight: bold;
+}
+      
